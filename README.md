@@ -1,1 +1,1 @@
-Reference: https://chriskhanhtran.github.io/minimal-portfolio
+Reference: https://github.com/evanca/quick-portfolio
