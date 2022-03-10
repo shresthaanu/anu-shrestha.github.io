@@ -1,11 +1,11 @@
 ## Portfolio
 
 ---
+Applied Deep Learning: LSTM Autoencoder based Framework
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Detect Fraudulent Users in e-Commerce Platforms](/sample_page)
+<img src="images/example.png?raw=true"/>
+<img src="pdf/emb.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
