@@ -3,8 +3,8 @@
 ---
 Applied Deep Learning: LSTM Autoencoder based Framework
 
-[Detect Fraudulent Users in e-Commerce Platforms](/https://dl.acm.org/doi/pdf/10.1145/3374664.3375744)
-<img src="images/example.png?raw=true"/>
+[Detect Fraudulent Users in e-Commerce Platforms](/Paper/deeptrust.pdf)
+<img src="images/example.png?raw=true" width="100" height="100"/>
 <img src="images/DeepTrust.png?raw=true"/>
 
 ---
